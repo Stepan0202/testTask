@@ -1,0 +1,19 @@
+{
+  "name": "dashboard_test_task",
+  "version": "1.0.0",
+  "description": "Test task on vacantion Front-end developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stepan0202/testTask.git"
+  },
+  "author": "Derevyanko Stepan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stepan0202/testTask/issues"
+  },
+  "homepage": "https://github.com/Stepan0202/testTask#readme"
+}
